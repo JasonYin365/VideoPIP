@@ -20,7 +20,7 @@
     android:layout_height="match_parent"
     tools:context="com.jason.pip.videopip.MainActivity">
 
-    <com.jason.pip.videopip.VideoListLayout
+    <com.jason.pip.videopip.view.VideoListLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </RelativeLayout>
